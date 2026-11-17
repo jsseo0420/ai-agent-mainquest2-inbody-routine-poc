@@ -1,0 +1,16 @@
+﻿파일,운동 수,도감 포함(필터 전),지운 ID,3일 구성,하루 4~6개,같은 날 중복 없음,2~4세트,8~15회,가슴·등·하체 포함,체지방 높음 → 유산소 안내
+sample_01_clean.jpg,15,15,,True,True,True,True,True,True,True
+sample_02_clean.jpg,12,12,,True,True,True,True,True,True,True
+sample_03_clean.jpg,12,12,,True,True,True,True,True,True,True
+sample_04_clean.jpg,15,15,,True,True,True,True,True,True,True
+sample_05_tilt.jpg,12,12,,True,True,True,True,True,True,True
+sample_06_tilt.jpg,12,12,,True,True,True,True,True,True,True
+sample_07_tilt.jpg,12,12,,True,True,True,True,True,True,True
+sample_08_blur.jpg,12,12,,True,True,True,True,True,True,True
+sample_09_blur.jpg,12,12,,True,True,True,True,True,True,True
+sample_10_blur.jpg,12,12,,True,True,True,True,True,True,True
+sample_11_shadow.jpg,12,12,,True,True,True,True,True,True,True
+sample_12_shadow.jpg,12,12,,True,True,True,True,True,True,True
+sample_13_lowres.jpg,12,12,,True,True,True,True,True,True,True
+sample_14_lowres.jpg,12,12,,True,True,True,True,True,True,True
+sample_15_combo.jpg,12,12,,True,True,True,True,True,True,True

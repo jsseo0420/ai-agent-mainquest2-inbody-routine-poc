@@ -1,0 +1,1307 @@
+[
+  {
+    "file": "sample_01_clean.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "어시스티드 풀업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "인클라인 덤벨 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "사이드 크런치",
+              "sets": 3,
+              "reps": "12회"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.5,
+    "error": null
+  },
+  {
+    "file": "sample_02_clean.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "Day 1 - 상체 및 코어",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "Day 2 - 하체 및 유산소",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 런지",
+              "sets": 3,
+              "reps": "양쪽 각 10회"
+            },
+            {
+              "name": "러닝머신 유산소",
+              "sets": 1,
+              "reps": "20분"
+            }
+          ]
+        },
+        {
+          "title": "Day 3 - 전신 및 힙",
+          "exercises": [
+            {
+              "name": "스쿼트 (맨몸 또는 바벨)",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "힙스러스트",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "천국의 계단 유산소",
+              "sets": 1,
+              "reps": "15분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.53,
+    "error": null
+  },
+  {
+    "file": "sample_03_clean.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "덤벨 스쿼트",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C 및 유산소 집중",
+          "exercises": [
+            {
+              "name": "브릿지",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "인클라인 푸시업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "트레드밀 유산소",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 3.31,
+    "error": null
+  },
+  {
+    "file": "sample_04_clean.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "Day 1: 상체 중심 운동",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스 머신",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "숄더 프레스 머신",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "트레드밀 걷기",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        },
+        {
+          "title": "Day 2: 하체 및 코어 운동",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "사이클",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        },
+        {
+          "title": "Day 3: 전신 순환 운동",
+          "exercises": [
+            {
+              "name": "덤벨 스쿼트",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "어시스디드 턱걸이",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "푸시업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "45초"
+            },
+            {
+              "name": "천국의 계단",
+              "sets": 1,
+              "reps": "20분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.97,
+    "error": null
+  },
+  {
+    "file": "sample_05_tilt.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 스쿼트",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "인클라인 체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "케이블 푸시 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "어시스디드 풀업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 런지",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "바이시클 크런치",
+              "sets": 3,
+              "reps": "20회"
+            },
+            {
+              "name": "유산소 운동 (런닝머신)",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.41,
+    "error": null
+  },
+  {
+    "file": "sample_06_tilt.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "Day 1: 상체 운동",
+          "exercises": [
+            {
+              "name": "벤치 프레스",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "오버헤드 프레스",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "바벨 로우",
+              "sets": 3,
+              "reps": "12회"
+            }
+          ]
+        },
+        {
+          "title": "Day 2: 하체 운동",
+          "exercises": [
+            {
+              "name": "바벨 스쿼트",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "카프 레이즈",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "Day 3: 전신 및 코어 운동",
+          "exercises": [
+            {
+              "name": "데드리프트",
+              "sets": 3,
+              "reps": "8회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 2.07,
+    "error": null
+  },
+  {
+    "file": "sample_07_tilt.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "이너 타하이",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "케틀벨 스쿼트",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "시티드 레그 컬",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "인클라인 체스트 프레스",
+              "sets": 3,
+              "reps": "12-15회"
+            },
+            {
+              "name": "레그 레이즈",
+              "sets": 3,
+              "reps": "12-15회"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 6.41,
+    "error": null
+  },
+  {
+    "file": "sample_08_blur.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "케틀벨 스쿼트",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "런지",
+              "sets": 3,
+              "reps": "양쪽 각 10회"
+            },
+            {
+              "name": "어시스티드 풀업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "인클라인 덤벨 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 레이즈",
+              "sets": 3,
+              "reps": "12회"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.54,
+    "error": null
+  },
+  {
+    "file": "sample_09_blur.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "런닝머신 유산소",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "천국의 계단 유산소",
+              "sets": 1,
+              "reps": "20분"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "어시스티드 풀업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "덤벨 플라이",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "라잉 레그 컬",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "사이클 유산소",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.55,
+    "error": null
+  },
+  {
+    "file": "sample_10_blur.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "어시스디드 풀업",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "인클라인 덤벨 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "마운틴 클라이머",
+              "sets": 3,
+              "reps": "40초"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.5,
+    "error": null
+  },
+  {
+    "file": "sample_11_shadow.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "첫째 날: 상체 및 유산소 운동",
+          "exercises": [
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "트레드밀 걷기",
+              "sets": 1,
+              "reps": "30분"
+            }
+          ]
+        },
+        {
+          "title": "둘째 날: 하체 및 코어 운동",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "셋째 날: 전신 순환 및 유산소 운동",
+          "exercises": [
+            {
+              "name": "덤벨 스쿼트",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "케이블 푸시다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "사이클",
+              "sets": 1,
+              "reps": "30분"
+            },
+            {
+              "name": "레그 레이즈",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.18,
+    "error": null
+  },
+  {
+    "file": "sample_12_shadow.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "전신 운동 A",
+          "exercises": [
+            {
+              "name": "렛 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "런닝머신 인터벌 걷기",
+              "sets": 1,
+              "reps": "20분"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 B",
+          "exercises": [
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "랫 풀 다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "사이클",
+              "sets": 1,
+              "reps": "20분"
+            }
+          ]
+        },
+        {
+          "title": "전신 운동 C",
+          "exercises": [
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 익스텐션",
+              "sets": 3,
+              "reps": "15회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "천국의 계단",
+              "sets": 1,
+              "reps": "15분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.24,
+    "error": null
+  },
+  {
+    "file": "sample_13_lowres.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "Day 1: 하체 및 코어 중심",
+          "exercises": [
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "런지",
+              "sets": 3,
+              "reps": "양쪽 10회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "Day 2: 상체 중심",
+          "exercises": [
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "체스트 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "덤벨 숄더 프레스",
+              "sets": 3,
+              "reps": "10회"
+            }
+          ]
+        },
+        {
+          "title": "Day 3: 전신 및 유산소 연계",
+          "exercises": [
+            {
+              "name": "스쿼트 (맨몸 또는 바벨)",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "백 익스텐션",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            },
+            {
+              "name": "인클라인 트레드밀 걷기",
+              "sets": 1,
+              "reps": "20분"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 1.42,
+    "error": null
+  },
+  {
+    "file": "sample_14_lowres.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "Day 1: 상체 운동",
+          "exercises": [
+            {
+              "name": "벤치 프레스",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "오버헤드 프레스",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "덤벨컬",
+              "sets": 3,
+              "reps": "12회"
+            }
+          ]
+        },
+        {
+          "title": "Day 2: 하체 운동",
+          "exercises": [
+            {
+              "name": "바벨 스쿼트",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15회"
+            }
+          ]
+        },
+        {
+          "title": "Day 3: 전신 및 유산소",
+          "exercises": [
+            {
+              "name": "데드리프트",
+              "sets": 3,
+              "reps": "8회"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "10회"
+            },
+            {
+              "name": "런지",
+              "sets": 3,
+              "reps": "12회"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 5.62,
+    "error": null
+  },
+  {
+    "file": "sample_15_combo.jpg",
+    "output": {
+      "days": [
+        {
+          "title": "Day 1: 상체 운동",
+          "exercises": [
+            {
+              "name": "벤치 프레스",
+              "sets": 3,
+              "reps": "10-12"
+            },
+            {
+              "name": "랫 풀다운",
+              "sets": 3,
+              "reps": "10-12"
+            },
+            {
+              "name": "숄더 프레스",
+              "sets": 3,
+              "reps": "12"
+            },
+            {
+              "name": "바벨 덤벨 컬",
+              "sets": 3,
+              "reps": "15"
+            }
+          ]
+        },
+        {
+          "title": "Day 2: 하체 운동",
+          "exercises": [
+            {
+              "name": "바벨 스쿼트",
+              "sets": 3,
+              "reps": "10-12"
+            },
+            {
+              "name": "레그 프레스",
+              "sets": 3,
+              "reps": "12"
+            },
+            {
+              "name": "레그 컬",
+              "sets": 3,
+              "reps": "15"
+            },
+            {
+              "name": "플랭크",
+              "sets": 3,
+              "reps": "30초"
+            }
+          ]
+        },
+        {
+          "title": "Day 3: 전신 운동 및 코어",
+          "exercises": [
+            {
+              "name": "데드리프트",
+              "sets": 3,
+              "reps": "8-10"
+            },
+            {
+              "name": "시티드 로우",
+              "sets": 3,
+              "reps": "12"
+            },
+            {
+              "name": "푸시업",
+              "sets": 3,
+              "reps": "10-15"
+            },
+            {
+              "name": "크런치",
+              "sets": 3,
+              "reps": "15"
+            }
+          ]
+        }
+      ]
+    },
+    "seconds": 6.82,
+    "error": null
+  }
+]
