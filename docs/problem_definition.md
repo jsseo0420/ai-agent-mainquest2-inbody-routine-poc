@@ -33,7 +33,8 @@
 
 ```
 결과지 사진
-  → ① 수치 추출 (EasyOCR+규칙 / Gemini Flash API / Qwen2.5-VL 3B 로컬 비교, Claude 비전은 선택)
+  → ① 수치 추출: OCR 모델 vs 비전 언어 모델(VLM) 비교
+       (OCR 모델 EasyOCR+규칙 / VLM Gemini Flash API / VLM Qwen2.5-VL 3B 로컬, Claude 비전은 선택)
   → ② 수치 JSON (8개 핵심 필드)
   → ③ 루틴 추천 (도감 운동 목록 + 수치 → LLM → 구조화된 JSON)
      → 도감에 없는 운동은 코드에서 한 번 더 제거
