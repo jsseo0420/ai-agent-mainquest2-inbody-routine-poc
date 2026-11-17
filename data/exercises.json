@@ -1,0 +1,347 @@
+{
+  "source": "ai-agent-mainquest1-health/data/equipment.ts",
+  "exported_at": "2026-11-17",
+  "muscles": [
+    {
+      "id": "chest",
+      "name": "대흉근",
+      "group": "chest",
+      "group_name": "가슴"
+    },
+    {
+      "id": "front-delt",
+      "name": "전면 삼각근",
+      "group": "shoulders",
+      "group_name": "어깨"
+    },
+    {
+      "id": "side-delt",
+      "name": "측면 삼각근",
+      "group": "shoulders",
+      "group_name": "어깨"
+    },
+    {
+      "id": "biceps",
+      "name": "이두근",
+      "group": "arms",
+      "group_name": "팔"
+    },
+    {
+      "id": "abs",
+      "name": "복직근",
+      "group": "abs",
+      "group_name": "복근"
+    },
+    {
+      "id": "quads",
+      "name": "대퇴사두근",
+      "group": "legs",
+      "group_name": "하체"
+    },
+    {
+      "id": "adductors",
+      "name": "내전근",
+      "group": "legs",
+      "group_name": "하체"
+    },
+    {
+      "id": "traps",
+      "name": "승모근",
+      "group": "back",
+      "group_name": "등"
+    },
+    {
+      "id": "rear-delt",
+      "name": "후면 삼각근",
+      "group": "shoulders",
+      "group_name": "어깨"
+    },
+    {
+      "id": "lats",
+      "name": "광배근",
+      "group": "back",
+      "group_name": "등"
+    },
+    {
+      "id": "erectors",
+      "name": "척추기립근",
+      "group": "back",
+      "group_name": "등"
+    },
+    {
+      "id": "triceps",
+      "name": "삼두근",
+      "group": "arms",
+      "group_name": "팔"
+    },
+    {
+      "id": "glutes",
+      "name": "둔근",
+      "group": "legs",
+      "group_name": "하체"
+    },
+    {
+      "id": "hamstrings",
+      "name": "햄스트링",
+      "group": "legs",
+      "group_name": "하체"
+    },
+    {
+      "id": "calves",
+      "name": "종아리",
+      "group": "legs",
+      "group_name": "하체"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "chest-press",
+      "name_ko": "체스트 프레스 머신",
+      "name_en": "Chest Press Machine",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [
+        "front-delt",
+        "triceps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/chest-press"
+    },
+    {
+      "id": "pec-deck",
+      "name_ko": "펙덱 플라이 머신",
+      "name_en": "Pec Deck Fly Machine",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [
+        "front-delt"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/pec-deck"
+    },
+    {
+      "id": "flat-bench-press",
+      "name_ko": "플랫 벤치프레스",
+      "name_en": "Flat Bench Press",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [
+        "front-delt",
+        "triceps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/flat-bench-press"
+    },
+    {
+      "id": "incline-bench-press",
+      "name_ko": "인클라인 벤치프레스",
+      "name_en": "Incline Bench Press",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [
+        "front-delt",
+        "triceps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/incline-bench-press"
+    },
+    {
+      "id": "cable-crossover",
+      "name_ko": "케이블 크로스오버",
+      "name_en": "Cable Crossover",
+      "primary_muscles": [
+        "chest"
+      ],
+      "secondary_muscles": [
+        "front-delt",
+        "triceps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/cable-crossover"
+    },
+    {
+      "id": "lat-pulldown",
+      "name_ko": "랫풀다운 머신",
+      "name_en": "Lat Pulldown Machine",
+      "primary_muscles": [
+        "lats"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "rear-delt"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/lat-pulldown"
+    },
+    {
+      "id": "seated-cable-row",
+      "name_ko": "시티드 케이블 로우",
+      "name_en": "Seated Cable Row",
+      "primary_muscles": [
+        "lats"
+      ],
+      "secondary_muscles": [
+        "traps",
+        "rear-delt",
+        "biceps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/seated-cable-row"
+    },
+    {
+      "id": "assisted-pullup-dip",
+      "name_ko": "어시스트 풀업/딥스 머신",
+      "name_en": "Assisted Pull-up / Dip Machine",
+      "primary_muscles": [
+        "lats",
+        "triceps"
+      ],
+      "secondary_muscles": [
+        "biceps",
+        "chest"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/assisted-pullup-dip"
+    },
+    {
+      "id": "back-extension",
+      "name_ko": "백 익스텐션 벤치",
+      "name_en": "Back Extension Bench",
+      "primary_muscles": [
+        "erectors"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/back-extension"
+    },
+    {
+      "id": "shoulder-press",
+      "name_ko": "숄더 프레스 머신",
+      "name_en": "Shoulder Press Machine",
+      "primary_muscles": [
+        "front-delt",
+        "side-delt"
+      ],
+      "secondary_muscles": [
+        "triceps",
+        "traps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/shoulder-press"
+    },
+    {
+      "id": "lateral-raise",
+      "name_ko": "레터럴 레이즈 머신",
+      "name_en": "Lateral Raise Machine",
+      "primary_muscles": [
+        "side-delt"
+      ],
+      "secondary_muscles": [
+        "traps"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/lateral-raise"
+    },
+    {
+      "id": "smith-machine",
+      "name_ko": "스미스 머신",
+      "name_en": "Smith Machine",
+      "primary_muscles": [
+        "quads",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "chest",
+        "front-delt",
+        "hamstrings"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/smith-machine"
+    },
+    {
+      "id": "leg-press",
+      "name_ko": "레그 프레스",
+      "name_en": "Leg Press",
+      "primary_muscles": [
+        "quads",
+        "glutes"
+      ],
+      "secondary_muscles": [
+        "hamstrings",
+        "adductors"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/leg-press"
+    },
+    {
+      "id": "leg-extension",
+      "name_ko": "레그 익스텐션",
+      "name_en": "Leg Extension",
+      "primary_muscles": [
+        "quads"
+      ],
+      "secondary_muscles": [],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/leg-extension"
+    },
+    {
+      "id": "leg-curl",
+      "name_ko": "레그 컬",
+      "name_en": "Leg Curl",
+      "primary_muscles": [
+        "hamstrings"
+      ],
+      "secondary_muscles": [
+        "calves"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/leg-curl"
+    },
+    {
+      "id": "hack-squat",
+      "name_ko": "핵 스쿼트 머신",
+      "name_en": "Hack Squat Machine",
+      "primary_muscles": [
+        "quads"
+      ],
+      "secondary_muscles": [
+        "glutes",
+        "hamstrings"
+      ],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/hack-squat"
+    },
+    {
+      "id": "hip-abduction-adduction",
+      "name_ko": "힙 어브덕션/어덕션 머신",
+      "name_en": "Hip Abduction / Adduction Machine",
+      "primary_muscles": [
+        "glutes",
+        "adductors"
+      ],
+      "secondary_muscles": [],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/hip-abduction-adduction"
+    },
+    {
+      "id": "preacher-curl",
+      "name_ko": "프리처 컬 머신",
+      "name_en": "Preacher Curl Machine",
+      "primary_muscles": [
+        "biceps"
+      ],
+      "secondary_muscles": [],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/preacher-curl"
+    },
+    {
+      "id": "calf-raise",
+      "name_ko": "카프 레이즈 머신",
+      "name_en": "Calf Raise Machine",
+      "primary_muscles": [
+        "calves"
+      ],
+      "secondary_muscles": [],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/calf-raise"
+    },
+    {
+      "id": "ab-crunch",
+      "name_ko": "앱도미널 크런치 머신",
+      "name_en": "Abdominal Crunch Machine",
+      "primary_muscles": [
+        "abs"
+      ],
+      "secondary_muscles": [],
+      "url": "https://ai-agent-mainquest1-health.vercel.app/equipment/ab-crunch"
+    }
+  ]
+}
