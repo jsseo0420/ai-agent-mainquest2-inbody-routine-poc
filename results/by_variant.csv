@@ -1,0 +1,7 @@
+﻿variant,A_easyocr_rules,B_gemini_flash,C_qwen25vl_3b_local
+clean,1.0,1.0,0.625
+tilt,0.25,1.0,0.9166666666666666
+blur,0.0,1.0,0.8333333333333334
+shadow,0.6875,1.0,1.0
+lowres,0.0,1.0,0.5625
+combo,0.0,1.0,0.75

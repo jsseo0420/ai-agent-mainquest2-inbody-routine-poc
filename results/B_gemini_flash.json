@@ -1,0 +1,497 @@
+[
+  {
+    "file": "sample_01_clean.jpg",
+    "variant": "clean",
+    "seconds": 10.65,
+    "pred": {
+      "weight_kg": 75.8,
+      "skeletal_muscle_kg": 24.3,
+      "body_fat_kg": 28.8,
+      "body_fat_pct": 38.0,
+      "bmi": 29.6,
+      "bmr_kcal": 1385,
+      "score": 65,
+      "whr": 0.84
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 646,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 10.64785636800002
+    },
+    "error": null
+  },
+  {
+    "file": "sample_02_clean.jpg",
+    "variant": "clean",
+    "seconds": 10.0,
+    "pred": {
+      "weight_kg": 59.5,
+      "skeletal_muscle_kg": 23.3,
+      "body_fat_kg": 15.9,
+      "body_fat_pct": 26.8,
+      "bmi": 21.2,
+      "bmr_kcal": 1312,
+      "score": 74,
+      "whr": 0.78
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 724,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 10.000714705000064
+    },
+    "error": null
+  },
+  {
+    "file": "sample_03_clean.jpg",
+    "variant": "clean",
+    "seconds": 11.39,
+    "pred": {
+      "weight_kg": 64.1,
+      "skeletal_muscle_kg": 21.7,
+      "body_fat_kg": 23.7,
+      "body_fat_pct": 37.0,
+      "bmi": 26.1,
+      "bmr_kcal": 1243,
+      "score": 64,
+      "whr": 0.84
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 781,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 11.393525605999912
+    },
+    "error": null
+  },
+  {
+    "file": "sample_04_clean.jpg",
+    "variant": "clean",
+    "seconds": 27.37,
+    "pred": {
+      "weight_kg": 99.5,
+      "skeletal_muscle_kg": 39.3,
+      "body_fat_kg": 29.7,
+      "body_fat_pct": 29.8,
+      "bmi": 30.6,
+      "bmr_kcal": 1878,
+      "score": 71,
+      "whr": 0.87
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 658,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 27.36660768699994
+    },
+    "error": null
+  },
+  {
+    "file": "sample_05_tilt.jpg",
+    "variant": "tilt",
+    "seconds": 28.11,
+    "pred": {
+      "weight_kg": 73.0,
+      "skeletal_muscle_kg": 23.0,
+      "body_fat_kg": 28.2,
+      "body_fat_pct": 38.6,
+      "bmi": 26.2,
+      "bmr_kcal": 1338,
+      "score": 60,
+      "whr": 0.86
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 778,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 28.107004922999977
+    },
+    "error": null
+  },
+  {
+    "file": "sample_06_tilt.jpg",
+    "variant": "tilt",
+    "seconds": 44.67,
+    "pred": {
+      "weight_kg": 66.2,
+      "skeletal_muscle_kg": 29.7,
+      "body_fat_kg": 12.4,
+      "body_fat_pct": 18.8,
+      "bmi": 23.2,
+      "bmr_kcal": 1532,
+      "score": 76,
+      "whr": 0.82
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 761,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 44.666524411999944
+    },
+    "error": null
+  },
+  {
+    "file": "sample_07_tilt.jpg",
+    "variant": "tilt",
+    "seconds": 43.85,
+    "pred": {
+      "weight_kg": 66.3,
+      "skeletal_muscle_kg": 24.9,
+      "body_fat_kg": 17.8,
+      "body_fat_pct": 26.9,
+      "bmi": 22.6,
+      "bmr_kcal": 1418,
+      "score": 75,
+      "whr": 0.77
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 728,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 43.848531027000035
+    },
+    "error": null
+  },
+  {
+    "file": "sample_08_blur.jpg",
+    "variant": "blur",
+    "seconds": 28.35,
+    "pred": {
+      "weight_kg": 62.4,
+      "skeletal_muscle_kg": 23.3,
+      "body_fat_kg": 17.8,
+      "body_fat_pct": 28.5,
+      "bmi": 22.1,
+      "bmr_kcal": 1333,
+      "score": 72,
+      "whr": 0.79
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 753,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 28.350978957999814
+    },
+    "error": null
+  },
+  {
+    "file": "sample_09_blur.jpg",
+    "variant": "blur",
+    "seconds": 17.72,
+    "pred": {
+      "weight_kg": 69.3,
+      "skeletal_muscle_kg": 26.8,
+      "body_fat_kg": 20.0,
+      "body_fat_pct": 28.8,
+      "bmi": 24.1,
+      "bmr_kcal": 1435,
+      "score": 76,
+      "whr": 0.77
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 647,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 17.716761903000133
+    },
+    "error": null
+  },
+  {
+    "file": "sample_10_blur.jpg",
+    "variant": "blur",
+    "seconds": 19.25,
+    "pred": {
+      "weight_kg": 83.4,
+      "skeletal_muscle_kg": 32.7,
+      "body_fat_kg": 25.0,
+      "body_fat_pct": 30.0,
+      "bmi": 30.3,
+      "bmr_kcal": 1631,
+      "score": 68,
+      "whr": 0.9
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 948,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 19.25150817100007
+    },
+    "error": null
+  },
+  {
+    "file": "sample_11_shadow.jpg",
+    "variant": "shadow",
+    "seconds": 24.15,
+    "pred": {
+      "weight_kg": 94.5,
+      "skeletal_muscle_kg": 36.2,
+      "body_fat_kg": 30.8,
+      "body_fat_pct": 32.6,
+      "bmi": 30.8,
+      "bmr_kcal": 1746,
+      "score": 65,
+      "whr": 0.9
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 611,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 24.145867797999927
+    },
+    "error": null
+  },
+  {
+    "file": "sample_12_shadow.jpg",
+    "variant": "shadow",
+    "seconds": 15.94,
+    "pred": {
+      "weight_kg": 68.5,
+      "skeletal_muscle_kg": 23.7,
+      "body_fat_kg": 23.5,
+      "body_fat_pct": 34.3,
+      "bmi": 23.9,
+      "bmr_kcal": 1342,
+      "score": 65,
+      "whr": 0.83
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 709,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 15.93645629699995
+    },
+    "error": null
+  },
+  {
+    "file": "sample_13_lowres.jpg",
+    "variant": "lowres",
+    "seconds": 10.38,
+    "pred": {
+      "weight_kg": 60.5,
+      "skeletal_muscle_kg": 23.5,
+      "body_fat_kg": 15.7,
+      "body_fat_pct": 25.9,
+      "bmi": 21.0,
+      "bmr_kcal": 1338,
+      "score": 75,
+      "whr": 0.78
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 870,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 10.382407594999904
+    },
+    "error": null
+  },
+  {
+    "file": "sample_14_lowres.jpg",
+    "variant": "lowres",
+    "seconds": 23.96,
+    "pred": {
+      "weight_kg": 70.7,
+      "skeletal_muscle_kg": 29.5,
+      "body_fat_kg": 16.7,
+      "body_fat_pct": 23.6,
+      "bmi": 25.1,
+      "bmr_kcal": 1536,
+      "score": 70,
+      "whr": 0.86
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 790,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 23.955160511999793
+    },
+    "error": null
+  },
+  {
+    "file": "sample_15_combo.jpg",
+    "variant": "combo",
+    "seconds": 9.72,
+    "pred": {
+      "weight_kg": 73.2,
+      "skeletal_muscle_kg": 31.4,
+      "body_fat_kg": 16.1,
+      "body_fat_pct": 22.0,
+      "bmi": 21.0,
+      "bmr_kcal": 1603,
+      "score": 65,
+      "whr": 0.84
+    },
+    "correct": {
+      "weight_kg": true,
+      "skeletal_muscle_kg": true,
+      "body_fat_kg": true,
+      "body_fat_pct": true,
+      "bmi": true,
+      "bmr_kcal": true,
+      "score": true,
+      "whr": true
+    },
+    "info": {
+      "input_tokens": 1330,
+      "output_tokens": 780,
+      "cost_usd": 0,
+      "model": "gemini-3.5-flash",
+      "api_seconds": 9.720625776999896
+    },
+    "error": null
+  }
+]

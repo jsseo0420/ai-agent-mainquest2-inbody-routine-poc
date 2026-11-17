@@ -1,0 +1,99 @@
+﻿방식,파일,상태,필드,정답,추출값
+A_easyocr_rules,sample_05_tilt.jpg,tilt,체중 (kg),73.0,
+A_easyocr_rules,sample_05_tilt.jpg,tilt,체지방량 (kg),28.2,73.0
+A_easyocr_rules,sample_05_tilt.jpg,tilt,체지방률 (%),38.6,
+A_easyocr_rules,sample_05_tilt.jpg,tilt,BMI (kg/m²),26.2,
+A_easyocr_rules,sample_05_tilt.jpg,tilt,기초대사량 (kcal),1338.0,
+A_easyocr_rules,sample_05_tilt.jpg,tilt,체성분 점수 (점),60.0,
+A_easyocr_rules,sample_06_tilt.jpg,tilt,체지방률 (%),18.8,
+A_easyocr_rules,sample_06_tilt.jpg,tilt,기초대사량 (kcal),1532.0,
+A_easyocr_rules,sample_06_tilt.jpg,tilt,체성분 점수 (점),76.0,
+A_easyocr_rules,sample_06_tilt.jpg,tilt,복부지방률,0.82,
+A_easyocr_rules,sample_07_tilt.jpg,tilt,체중 (kg),66.3,-3.6
+A_easyocr_rules,sample_07_tilt.jpg,tilt,골격근량 (kg),24.9,66.3
+A_easyocr_rules,sample_07_tilt.jpg,tilt,체지방량 (kg),17.8,3.4
+A_easyocr_rules,sample_07_tilt.jpg,tilt,체지방률 (%),26.9,
+A_easyocr_rules,sample_07_tilt.jpg,tilt,BMI (kg/m²),22.6,185.0
+A_easyocr_rules,sample_07_tilt.jpg,tilt,기초대사량 (kcal),1418.0,485.0
+A_easyocr_rules,sample_07_tilt.jpg,tilt,체성분 점수 (점),75.0,
+A_easyocr_rules,sample_07_tilt.jpg,tilt,복부지방률,0.77,
+A_easyocr_rules,sample_08_blur.jpg,blur,체중 (kg),62.4,
+A_easyocr_rules,sample_08_blur.jpg,blur,골격근량 (kg),23.3,
+A_easyocr_rules,sample_08_blur.jpg,blur,체지방량 (kg),17.8,
+A_easyocr_rules,sample_08_blur.jpg,blur,체지방률 (%),28.5,
+A_easyocr_rules,sample_08_blur.jpg,blur,BMI (kg/m²),22.1,
+A_easyocr_rules,sample_08_blur.jpg,blur,기초대사량 (kcal),1333.0,
+A_easyocr_rules,sample_08_blur.jpg,blur,체성분 점수 (점),72.0,
+A_easyocr_rules,sample_08_blur.jpg,blur,복부지방률,0.79,
+A_easyocr_rules,sample_09_blur.jpg,blur,체중 (kg),69.3,
+A_easyocr_rules,sample_09_blur.jpg,blur,골격근량 (kg),26.8,
+A_easyocr_rules,sample_09_blur.jpg,blur,체지방량 (kg),20.0,
+A_easyocr_rules,sample_09_blur.jpg,blur,체지방률 (%),28.8,
+A_easyocr_rules,sample_09_blur.jpg,blur,BMI (kg/m²),24.1,
+A_easyocr_rules,sample_09_blur.jpg,blur,기초대사량 (kcal),1435.0,
+A_easyocr_rules,sample_09_blur.jpg,blur,체성분 점수 (점),76.0,961.0
+A_easyocr_rules,sample_09_blur.jpg,blur,복부지방률,0.77,
+A_easyocr_rules,sample_10_blur.jpg,blur,체중 (kg),83.4,
+A_easyocr_rules,sample_10_blur.jpg,blur,골격근량 (kg),32.7,
+A_easyocr_rules,sample_10_blur.jpg,blur,체지방량 (kg),25.0,
+A_easyocr_rules,sample_10_blur.jpg,blur,체지방률 (%),30.0,
+A_easyocr_rules,sample_10_blur.jpg,blur,BMI (kg/m²),30.3,
+A_easyocr_rules,sample_10_blur.jpg,blur,기초대사량 (kcal),1631.0,
+A_easyocr_rules,sample_10_blur.jpg,blur,체성분 점수 (점),68.0,427.0
+A_easyocr_rules,sample_10_blur.jpg,blur,복부지방률,0.9,
+A_easyocr_rules,sample_11_shadow.jpg,shadow,체지방률 (%),32.6,
+A_easyocr_rules,sample_11_shadow.jpg,shadow,기초대사량 (kcal),1746.0,637.0
+A_easyocr_rules,sample_11_shadow.jpg,shadow,체성분 점수 (점),65.0,46.0
+A_easyocr_rules,sample_12_shadow.jpg,shadow,체지방률 (%),34.3,879.0
+A_easyocr_rules,sample_12_shadow.jpg,shadow,BMI (kg/m²),23.9,34.3
+A_easyocr_rules,sample_13_lowres.jpg,lowres,체중 (kg),60.5,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,골격근량 (kg),23.5,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,체지방량 (kg),15.7,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,체지방률 (%),25.9,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,BMI (kg/m²),21.0,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,기초대사량 (kcal),1338.0,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,체성분 점수 (점),75.0,
+A_easyocr_rules,sample_13_lowres.jpg,lowres,복부지방률,0.78,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,체중 (kg),70.7,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,골격근량 (kg),29.5,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,체지방량 (kg),16.7,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,체지방률 (%),23.6,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,BMI (kg/m²),25.1,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,기초대사량 (kcal),1536.0,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,체성분 점수 (점),70.0,
+A_easyocr_rules,sample_14_lowres.jpg,lowres,복부지방률,0.86,
+A_easyocr_rules,sample_15_combo.jpg,combo,체중 (kg),73.2,
+A_easyocr_rules,sample_15_combo.jpg,combo,골격근량 (kg),31.4,
+A_easyocr_rules,sample_15_combo.jpg,combo,체지방량 (kg),16.1,
+A_easyocr_rules,sample_15_combo.jpg,combo,체지방률 (%),22.0,
+A_easyocr_rules,sample_15_combo.jpg,combo,BMI (kg/m²),21.0,
+A_easyocr_rules,sample_15_combo.jpg,combo,기초대사량 (kcal),1603.0,
+A_easyocr_rules,sample_15_combo.jpg,combo,체성분 점수 (점),65.0,
+A_easyocr_rules,sample_15_combo.jpg,combo,복부지방률,0.84,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,체중 (kg),75.8,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,골격근량 (kg),24.3,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,체지방량 (kg),28.8,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,체지방률 (%),38.0,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,BMI (kg/m²),29.6,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,기초대사량 (kcal),1385.0,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,체성분 점수 (점),65.0,
+C_qwen25vl_3b_local,sample_01_clean.jpg,clean,복부지방률,0.84,
+C_qwen25vl_3b_local,sample_02_clean.jpg,clean,체지방률 (%),26.8,
+C_qwen25vl_3b_local,sample_03_clean.jpg,clean,체지방률 (%),37.0,
+C_qwen25vl_3b_local,sample_04_clean.jpg,clean,체지방률 (%),29.8,
+C_qwen25vl_3b_local,sample_04_clean.jpg,clean,기초대사량 (kcal),1878.0,2629.0
+C_qwen25vl_3b_local,sample_05_tilt.jpg,tilt,체지방률 (%),38.6,
+C_qwen25vl_3b_local,sample_06_tilt.jpg,tilt,체지방률 (%),18.8,
+C_qwen25vl_3b_local,sample_09_blur.jpg,blur,체지방률 (%),28.8,
+C_qwen25vl_3b_local,sample_10_blur.jpg,blur,골격근량 (kg),32.7,25.0
+C_qwen25vl_3b_local,sample_10_blur.jpg,blur,체지방량 (kg),25.0,32.7
+C_qwen25vl_3b_local,sample_10_blur.jpg,blur,체지방률 (%),30.0,
+C_qwen25vl_3b_local,sample_13_lowres.jpg,lowres,골격근량 (kg),23.5,64.5
+C_qwen25vl_3b_local,sample_13_lowres.jpg,lowres,체지방량 (kg),15.7,3.2
+C_qwen25vl_3b_local,sample_13_lowres.jpg,lowres,체지방률 (%),25.9,15.7
+C_qwen25vl_3b_local,sample_13_lowres.jpg,lowres,기초대사량 (kcal),1338.0,1138.0
+C_qwen25vl_3b_local,sample_14_lowres.jpg,lowres,골격근량 (kg),29.5,61.5
+C_qwen25vl_3b_local,sample_14_lowres.jpg,lowres,체지방량 (kg),16.7,2.4
+C_qwen25vl_3b_local,sample_14_lowres.jpg,lowres,체지방률 (%),23.6,3.6
+C_qwen25vl_3b_local,sample_15_combo.jpg,combo,골격근량 (kg),31.4,65.1
+C_qwen25vl_3b_local,sample_15_combo.jpg,combo,체지방률 (%),22.0,12.4
